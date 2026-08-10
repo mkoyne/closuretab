@@ -1,4 +1,4 @@
-module github.com/vlanse/dbclosure
+module github.com/mkoyne/closuretab
 
 go 1.19
 
