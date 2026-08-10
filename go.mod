@@ -4,7 +4,6 @@ go 1.19
 
 require (
 	github.com/stretchr/testify v1.8.0
-	github.com/vlanse/dbmigrate v0.0.1
 	modernc.org/sqlite v1.17.3
 )
 
